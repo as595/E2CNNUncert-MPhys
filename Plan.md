@@ -20,6 +20,5 @@
 
 #### Useful Links
 
-* [FRDEEP PyTorch dataset](https://hongmingtang060313.github.io/FR-DEEP/)
-* [FRDeep PyTorch Tutorial](https://as595.github.io/frdeepcnn/)
+* [MiraBest PyTorch dataset](https://zenodo.org/record/4288837#.YtUMsS1Q00o)
 * [NIPS Conference Papers](https://papers.nips.cc)
