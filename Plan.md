@@ -13,10 +13,12 @@
 5. Examine differences in ECE/UCE for different types of equivariance and compare to model performance;
 6. Discuss and explain results.
 
+<!---
 #### Potential publications
 
 * [MNRAS (or similar) astronomy paper on uncertainty calibration in FR classification](https://www.overleaf.com/4756255635rdcxgzpvbkbq)
 * NIPS (or similar) workshop paper on uncertainty calibration as a function of equivariance
+--->
 
 #### Useful Links
 
